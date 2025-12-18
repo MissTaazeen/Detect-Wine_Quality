@@ -1,1 +1,1 @@
-# Detect-WIne_Quality
+# Detect-Wine_Quality
